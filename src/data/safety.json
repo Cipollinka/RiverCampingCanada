@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "title": "Essential Safety Gear for River Camping",
+    "description": [
+      {
+        "subTitle": "Life Jackets (Personal Floatation Devices - PFD)",
+        "text": "Life jackets are a must-have for any water activity, especially near fast-moving rivers. Even if you’re a strong swimmer, currents can be unpredictable and dangerous. Life jackets help you stay afloat and are required by law in many areas for water activities.\n\nWhy it's essential: A life jacket ensures your safety in case of an accident. It’s particularly important if you're kayaking, canoeing, or even wading in a river.\n\nTip: Make sure the life jacket fits snugly and is properly adjusted to avoid slipping off."
+      },
+      {
+        "subTitle": "First Aid Kit",
+        "text": "Accidents can happen anytime, so it's always a good idea to pack a well-stocked first aid kit. It should include bandages, antiseptic wipes, gauze, adhesive tape, and medications for common outdoor injuries like cuts, scrapes, or bites.\n\nWhy it's essential: A first aid kit is a vital resource if you need to treat minor injuries on the spot.\n\nTip: Customize your first aid kit based on the environment and potential risks (e.g., snake bite kit, sunscreen, bug repellent)."
+      },
+      {
+        "subTitle": "River Safety Rope",
+        "text": "A river safety rope is a lightweight rope that can be used to assist in rescues or for securing items near the water. It’s a crucial piece of safety equipment, especially in remote locations where help may be far away.\n\nWhy it's essential: In case of an emergency, a safety rope can help you or others get out of the water or be pulled to safety.\n\nTip: Always ensure the rope is long enough (about 30 meters) and lightweight enough to be easily carried."
+      }
+    ],
+    "image": 0
+  },
+  {
+    "id": 2,
+    "title": "How to Choose the Right Safety Equipment for River Camping",
+    "description": [
+      {
+        "subTitle": "Water Safety Gear (Life Jackets and Helmets)",
+        "text": "When you're near the water, your number one priority is staying safe. A life jacket or personal flotation device (PFD) is essential for all water activities. If you're going white-water rafting or kayaking, consider wearing a helmet to protect your head from potential injuries caused by rocks or falls.\n\nHow to Choose: Pick a life jacket that is rated for the type of water activities you plan to do. Make sure it fits snugly but allows for enough movement. Helmets should also be durable, lightweight, and properly fitted."
+      },
+      {
+        "subTitle": "Fire Safety Gear (Fire Starter Kit)",
+        "text": "Fires are a crucial part of camping, whether it’s for cooking, warmth, or light. A fire starter kit can help you safely start a fire, even in wet conditions. Make sure to bring waterproof matches, a flint striker, or a fire starter stick to ensure your fire gets going when needed.\n\nHow to Choose: Always bring a fire starter kit that includes multiple ways to start a fire. Waterproof matches are a great option to prevent them from getting wet in damp conditions."
+      },
+      {
+        "subTitle": "Water Filtration System",
+        "text": "Drinking water from a river or lake without filtration can be dangerous. A portable water filtration system ensures that you have access to clean and safe drinking water, regardless of the location.\n\nHow to Choose: Look for a compact and lightweight filtration system that can filter out bacteria, parasites, and sediments. A hand-pump filter is great for larger groups, while a personal water filter bottle is perfect for solo campers."
+      }
+    ],
+    "image": 1
+  },
+  {
+    "id": 3,
+    "title": "River Camping Safety Tips: Stay Safe and Have Fun",
+    "description": [
+      {
+        "subTitle": "Always Wear a Life Jacket",
+        "text": "It doesn’t matter how skilled of a swimmer you are; water can be unpredictable. Always wear a life jacket when engaging in any water activity, whether you’re fishing, boating, or simply wading in the river. If you’re in a fast-moving river, make sure to wear a jacket specifically designed for swift water rescue."
+      },
+      {
+        "subTitle": "Know Your Surroundings",
+        "text": "Before setting up camp, take the time to explore the area and familiarize yourself with potential hazards. Check the water flow, watch out for sudden changes in weather, and know the location of the nearest emergency services or evacuation routes.\n\nTip: Always check the weather forecast to avoid being caught in unexpected storms, which can make rivers rise and currents stronger."
+      },
+      {
+        "subTitle": "Secure Your Campsite Properly",
+        "text": "When setting up your tent near the river, make sure to choose a safe spot away from potential hazards like flooding or fast currents. Secure your camping gear, especially items like food and equipment, that could be swept away in case of a flash flood.\n\nTip: Look for higher ground, especially during rainy seasons, to prevent water from reaching your tent."
+      },
+      {
+        "subTitle": "Stay Hydrated but Don’t Drink River Water Directly",
+        "text": "While it’s essential to stay hydrated, never drink untreated water directly from the river unless you’ve filtered or boiled it first. River water may contain harmful bacteria, parasites, or pollutants that can cause serious health issues.\n\nTip: Carry a portable water filter or iodine tablets to purify the water you drink."
+      }
+    ],
+    "image": 2
+  }
+]
