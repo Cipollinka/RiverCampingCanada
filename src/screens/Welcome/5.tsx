@@ -28,7 +28,7 @@ export default function Welcome5() {
         className="absolute top-1/3 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[300px] h-[172px]"
       />
 
-      <View className="bg-primary border-t border-t-white w-full p-6 flex-1">
+      <View className=" border-t border-t-white w-full p-6 flex-1">
         <CustomText className="text-xl">Save Your Favorite Spots</CustomText>
         <CustomText className="mt-4 mb-8 text-[#C5C5C5]" ff="M">
           Save your favorite locations to revisit later and keep your camping

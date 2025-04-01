@@ -19,7 +19,7 @@ export default function Welcome4() {
         className="absolute top-1/3 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[300px] h-[172px]"
       />
 
-      <View className="bg-primary border-t border-t-white w-full p-6 flex-1">
+      <View className=" border-t border-t-white w-full p-6 flex-1">
         <CustomText className="text-xl">Explore with the Map</CustomText>
         <CustomText className="mt-4 mb-8 text-[#C5C5C5]" ff="M">
           Use our interactive map to find and explore top river camping

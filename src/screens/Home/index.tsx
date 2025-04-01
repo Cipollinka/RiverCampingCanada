@@ -4,7 +4,7 @@ import Header from '@/components/Header';
 import ScreenWrapper from '@/components/ScreenWrapper';
 import {useNavigation} from '@react-navigation/native';
 import React from 'react';
-import {View, StyleSheet, Image, ScrollView} from 'react-native';
+import {View, Image, ScrollView} from 'react-native';
 
 export const HomeScreen = () => {
   const navigation = useNavigation();

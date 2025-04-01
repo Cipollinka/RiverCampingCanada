@@ -1,6 +1,5 @@
-import {SafeAreaView} from 'react-native';
+import {Image, SafeAreaView, View} from 'react-native';
 import React from 'react';
-import LinearGradient from 'react-native-linear-gradient';
 
 interface Props {
   children: React.ReactNode;
@@ -8,8 +7,12 @@ interface Props {
 
 export default function ScreenWrapper({children}: Props) {
   return (
-    <LinearGradient style={{flex: 1}} colors={['#232333', '#06060E']}>
+    <View style={{flex: 1}}>
+      <Image
+        style={{flex: 1, width: '100%', height: '100%', position: 'absolute'}}
+        source={require('../assets/images/bg.png')}
+      />
       <SafeAreaView className="flex-1 relative">{children}</SafeAreaView>
-    </LinearGradient>
+    </View>
   );
 }
