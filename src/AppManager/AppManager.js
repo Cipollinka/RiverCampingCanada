@@ -18,6 +18,7 @@ import {SafeAreaProvider} from 'react-native-safe-area-context';
 import {NavigationContainer} from '@react-navigation/native';
 import {RootStack} from '@navigation/RootStack';
 import {Provider} from 'jotai/index';
+import { requestTrackingPermission } from 'react-native-tracking-transparency';
 
 export default function AppManager() {
   const viewLoader = <LoaderRoot />;
@@ -66,6 +67,7 @@ export default function AppManager() {
 
   // робимо запит на відстеження
   async function getAdID() {
+    await requestTrackingPermission();
     ReactNativeIdfaAaid.getAdvertisingInfoAndCheckAuthorization(true).then(
       res => {
         // обробляємо клік в алерт
